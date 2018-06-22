@@ -1,0 +1,7 @@
+.output-box.input-field{
+    width: 30%;
+    height: 40px;
+    font-size: 30px;
+    margin: 5px auto;
+    border: 1px solid black;
+}

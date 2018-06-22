@@ -1,0 +1,18 @@
+.buttons{
+    width: 30%;
+    border: 1px solid black;
+    margin: 0px auto;
+    background-color: gray;
+}
+
+.buttons .button-row{
+    display: block;
+}
+
+.buttons .button-row button{
+    width: 15%;
+    height: 55px;
+    margin: 5px;
+    border-radius: 100%;
+    border: 1px solid maroon;
+}
